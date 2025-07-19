@@ -9,7 +9,7 @@ This is a stock trading web application that allows users to register, log in, a
 
 ## 🎥 Demo Video
 
-👉 [Watch the Demo on YouTube]([https://youtu.be/your-demo-link-here](https://youtu.be/CiFOMDnu-iw))
+👉 [Watch the Demo on YouTube](https://youtu.be/CiFOMDnu-iw)
 
 ---
 
